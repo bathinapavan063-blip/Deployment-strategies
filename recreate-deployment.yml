@@ -23,5 +23,3 @@ spec:
   matchLabels:
    name: web-app
    type: frontend
-
-   
